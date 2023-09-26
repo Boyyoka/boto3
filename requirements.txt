@@ -1,3 +1,2 @@
--e git+https://github.com/Boyyoka/botocore.git@upload-part-metadata#egg=botocore
 -e git+https://github.com/boto/jmespath.git@develop#egg=jmespath
 -e git+https://github.com/boto/s3transfer.git@develop#egg=s3transfer
